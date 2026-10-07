@@ -1,5 +1,0 @@
-__pycache__/
-*.pyc
-plots/
-scan_results.csv
-.venv/
