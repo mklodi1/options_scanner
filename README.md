@@ -44,7 +44,7 @@ A setup is graded **A** only when all five screens pass, the lower bound of the 
 
 ## Dashboard
 
-**Live demo:** *(add your Streamlit URL here)*
+**Live demo:** **
 
 The Streamlit dashboard (`app.py`) has:
 
